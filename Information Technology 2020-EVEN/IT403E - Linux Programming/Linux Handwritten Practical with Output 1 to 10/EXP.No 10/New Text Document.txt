@@ -1,0 +1,1 @@
+initrd=install/gtk/initrd.gz quiet splash init=/bin/bash
